@@ -1,4 +1,7 @@
 
+package Baitaptuan5;
+=======
+
 public class Sach {
     // Các thuộc tính (đóng gói: private)
     private String maSach;
@@ -79,6 +82,7 @@ public class Sach {
         System.out.println("---------------------------");
     }
 }
+
 
 
 public class Sach {
