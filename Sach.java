@@ -1,4 +1,3 @@
-package Baitaptuan5;
 
 public class Sach {
     protected String maSach;
